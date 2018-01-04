@@ -2894,7 +2894,7 @@ html[dir="rtl"] #header .tip.skin:before {
 }
 
 #header .header-btn-collapse-nav {
-	background: #cfa968;
+	background: #215394;
 }
 
 @media (min-width: 992px) {
@@ -3165,13 +3165,13 @@ html[dir="rtl"] #header .tip.skin:before {
 	#header .header-nav-main nav > ul > li > a,
 	#header .header-nav-main nav > ul > li > a:focus,
 	#header .header-nav-main nav > ul > li > a:hover {
-		color: #cfa968;
+		color: #215394;
 	}
 
 	#header .header-nav-main nav > ul > li.active > a,
 	#header .header-nav-main nav > ul > li.active > a:focus,
 	#header .header-nav-main nav > ul > li.active > a:hover {
-		background-color: #cfa968;
+		background-color: #215394;
 	}
 }
 
