@@ -14,5 +14,71 @@ Text Domain: porto
 */
 
 /*************** ADD YOUR CUSTOM CSS HERE  ***************/
+/*
+color original
+#cfa968
 
-.bypostauthor {}
+azul nuevo
+#006ea2
+
+azul:hover
+#4c9dc3
+
+naranja
+#ea840a
+
+*/
+#header.sticky-header .main-menu-wrap, .fixed-header #header.sticky-header .main-menu-wrap {
+    background-color: #006ea2;
+}
+
+.main-menu-wrap {
+    background-color: #006ea2;
+    padding: 0px 0px 0px 0px;
+}
+
+html .heading-primary, html .lnk-primary, html .text-color-primary {
+    color: #006ea2!important;
+}
+
+#main-menu .mega-menu > li.menu-item.active > a, #main-menu .mega-menu > li.menu-item.active > h5 {
+    background: #fff;
+    color: #006ea2;
+}
+
+#main-menu .mega-menu > li.menu-item.active:hover > a, #main-menu .mega-menu > li.menu-item:hover > a, #main-menu .mega-menu > li.menu-item.active:hover > h5, #main-menu .mega-menu > li.menu-item:hover > h5 {
+    background: #fff;
+    color: #006ea2;
+}
+
+.tparrows:before {
+    color: #fff;
+    text-shadow: 0 0 0px transparent;
+}
+
+
+.divider.divider-small hr {
+    background: #ea840a;
+}
+
+a{
+color: #006ea2;
+}
+
+a:hover {
+    color: #4c9dc3;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
